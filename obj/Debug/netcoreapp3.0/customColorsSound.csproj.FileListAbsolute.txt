@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\bin\Debug\netcoreapp3.0\customColorsSound.exe
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\bin\Debug\netcoreapp3.0\customColorsSound.deps.json
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\bin\Debug\netcoreapp3.0\customColorsSound.runtimeconfig.json
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\bin\Debug\netcoreapp3.0\customColorsSound.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\bin\Debug\netcoreapp3.0\customColorsSound.dll
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\bin\Debug\netcoreapp3.0\customColorsSound.pdb
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\obj\Debug\netcoreapp3.0\customColorsSound.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\obj\Debug\netcoreapp3.0\customColorsSound.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\obj\Debug\netcoreapp3.0\customColorsSound.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\obj\Debug\netcoreapp3.0\customColorsSound.dll
+C:\Users\marla\workspace\c#\BookWork\customColorsSound\obj\Debug\netcoreapp3.0\customColorsSound.pdb
